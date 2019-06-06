@@ -1,4 +1,4 @@
-# dpoll-bot
+# Dpoll Voting Bot with Python 
 It is a python bot for http://dpoll.xyz . Bot votes first poll and the most voted option . 
 Dpoll shared 3party support in this post https://steemit.com/dpoll/@emrebeyler/dpoll-development-update-keychain-integration-and-3rd-party-voting-support .
 So I created a bot which is auto voting first poll. You need steem posting key for using bot.
